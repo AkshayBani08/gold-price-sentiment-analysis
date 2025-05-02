@@ -1,4 +1,4 @@
-:
+
 📊 Price Analysis
 1)What is the average closing price of gold over time?
 
