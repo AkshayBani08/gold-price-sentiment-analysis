@@ -1,0 +1,22 @@
+:
+📊 Price Analysis
+1)What is the average closing price of gold over time?
+
+2)Which day had the highest closing price? The lowest?
+
+3)What is the average daily price range (high - low)?
+
+4)How does the gold price fluctuate over months or years?
+
+🕵️‍♂️ Volatility & Trend
+1)What are the most volatile periods (highest daily changes)?
+
+2)Is there a long-term trend (upward/downward) in gold prices?
+
+3)Are there patterns or cycles in price movements?
+
+📰 Headlines Relationship
+1)Do specific types of headlines correlate with price movements?
+
+2)Can we detect if certain keywords (e.g. "inflation", "recession") in headlines affect price changes?
+
